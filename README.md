@@ -19,5 +19,3 @@ Per preparare il pc alla compilazione di questi codici è sufficiente seguire la
 NON VERRANNO ACCETTATE PULL-REQUEST CONTENENTI SOLUZIONI AGLI ESERCIZI.  
 Sono invece graditi suggerimenti, correzioni ed integrazioni al materiale già presente.
 
-Buon lavoro!
-
