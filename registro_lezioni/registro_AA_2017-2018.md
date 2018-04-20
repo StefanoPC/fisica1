@@ -93,3 +93,27 @@ Prof. Rambaldi
 - Definizione di lavoro
 - Lavoro svolto da forze costanti
 
+#### 9 aprile 2018
+Prof. Rambaldi
+
+#### 10 aprile 2018
+Prof. Rambaldi
+
+#### 11 aprile 2018
+Prof. Rambaldi
+
+#### Lezione 14 : 16 aprile 2018
+- Definizione di lavoro
+- Definizione di potenza
+- Lavoro svolto da forze costanti e da forze variabili
+- Lavoro svolto dalla forza elastica
+
+#### Lezione 15 : 17 aprile 2018
+- Teorema dell'energia cinetica
+- Conservazione energia cinetica in un urto elastico
+
+#### Lezione 16 : 18 aprile 2018
+- Forze conservative
+- Energia potenziale
+- Energia meccanica
+- Principio di conservazione dell'energia meccanica 
