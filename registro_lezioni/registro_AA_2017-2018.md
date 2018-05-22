@@ -116,4 +116,50 @@ Prof. Rambaldi
 - Forze conservative
 - Energia potenziale
 - Energia meccanica
-- Principio di conservazione dell'energia meccanica 
+- Principio di conservazione dell'energia meccanica
+
+#### 23 aprile 2018
+Prof. Rambaldi
+
+#### 24 aprile 2018
+Prof. Rambaldi
+
+#### 25 aprile 2018
+- SOSPENSIONE DIDATTICA - FESTIVITÀ 25 APRILE
+
+#### 30 aprile 2018
+- SOSPENSIONE DIDATTICA - PONTE 1 MAGGIO
+
+#### 1 maggio 2018
+- SOSPENSIONE DIDATTICA - FESTIVITÀ 1 MAGGIO
+
+#### Lezione 17 : 2 maggio 2018
+- Esercizi
+
+#### Lezione 18 : 7 maggio 2018
+- Cinematica dei moti rotatori
+- Relazioni tra variabili lineari e angolari
+- Rotazione con accelerazione angolare costante e parallelismo con moto uniformemente accelerato
+
+#### Lezione 19 : 8 maggio 2018
+- Introduzione dinamica dei moti rotatori
+- Definizione di momento torcente
+- Definizione di momento d'inerzia
+
+#### Lezione 20 : 9 maggio 2018
+- Teorema di Huygens-Steiner e sua dimostrazione 
+- La seconda legge di Newton nel formalismo dei moti rotatori
+- Il momento d'inerzia per corpi rigidi (estesi)
+
+#### 14 maggio 2018
+Prof. Rambaldi
+
+#### 15 maggio 2018
+Prof. Rambaldi
+
+#### 16 maggio 2018
+Prof. Rambaldi
+
+#### Lezione 21 : 21 maggio 2018
+- Problema dei due corpi
+- Il momento angolare
